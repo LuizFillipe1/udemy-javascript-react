@@ -24,6 +24,3 @@ buttons.forEach((btn) => {
 
     })
 })
-
-
-console.log("dsad");
