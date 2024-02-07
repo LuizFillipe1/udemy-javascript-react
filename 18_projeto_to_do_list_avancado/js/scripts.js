@@ -189,7 +189,7 @@ const getTodosLocalStorage = () => {
     return todos;
 }
 const saveTodoLocalStorage = (todo) => {
-    const tudos = getTodosLocalStorage();
+    const todos = getTodosLocalStorage();
 
     todos.push(tod0);
 
